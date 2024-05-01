@@ -4,3 +4,5 @@ linea 3
 insercion nueva linea 4
 insercion nueva linea 5
 linea 4
+insercion linea 7
+insercion linea 8
